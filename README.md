@@ -19,6 +19,7 @@ En las **imágenes 1, 2, 3 y 4** se realiza la creación de la máquina virtual:
 
 ### 🖼️ Imagen 1
 ![alt text](WIN_SERVER-LINUX_KALI/image-43.png)
+
 *Acceso al menú principal del software de virtualización para iniciar la creación de una nueva unidad mediante el botón "Nueva" (New).*
 
 ### 🖼️ Imagen 2
